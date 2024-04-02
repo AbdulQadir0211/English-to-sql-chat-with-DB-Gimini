@@ -1,6 +1,6 @@
-# code-analysis-using-LLM
+# By this project you can fetch data from database using simple english prompt instead of writing SQL query
 
-# Source-Code-Analysis-using-GenAI
+# English to SQL query
 
 # How to run?
 ### STEPS:
